@@ -1,0 +1,15 @@
+﻿Type,Reference,Vendor No.,Amount,Description,Borough,Business Area,Address
+Type,Reference,VAT Code,Amount,Description,Cost Centre,GL Account,
+AP,316620,D000000016,NULL,316620-Bursrary Payment to student,WCC,CT UPLOAD,London
+AP,316620,D000000016,NULL,316620-Bursrary Payment to student,WCC,CT UPLOAD,London
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+GL,316620,V0,NULL,316620-Bursrary Payment to student,W22003,5371," "
+GL,316620,V0,NULL,316620-Bursrary Payment to student,W22003,5371," "
+GL,516016,V0,NULL,516016-Bursrary Payment to student,W22003,5371," "
+AP,516016,D000000016,NULL,516016-Bursrary Payment to student,WCC,CT UPLOAD,London
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+AP,516502,D000000016,NULL,516502-Bursrary Payment to student,WCC,CT UPLOAD,London
+AP,516502,D000000016,NULL,516502-Bursrary Payment to student,WCC,CT UPLOAD,London
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+GL,516502,V0,NULL,516502-Bursrary Payment to student,W22003,5371," "
+GL,516502,V0,NULL,516502-Bursrary Payment to student,W22003,5371," "
